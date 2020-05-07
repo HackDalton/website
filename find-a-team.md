@@ -1,5 +1,5 @@
 ---
-title: Find a team
+title: Find a Team
 subtitle: Get in touch with other students also looking for a team!
 layout: page
 ---

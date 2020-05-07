@@ -46,6 +46,8 @@ footer-links:
     title: "Guest Problem Writers"
   - url: /help.html
     title: "Get Help"
+  - url: /wsl.html
+    title: "Install the Windows Subsystem for Linux"
 
 sponsors:
   - url: https://partbolt.com

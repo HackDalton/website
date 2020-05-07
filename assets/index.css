@@ -47,10 +47,14 @@
     margin-bottom: 30px;
 }
 
-.people-grid {
+.grid {
     display: flex;
     flex-flow: row wrap;
     /* justify-content: space-evenly; */
+}
+
+.grid.has-items-centered {
+    justify-content: center;
 }
 
 .writer-social-links {
@@ -58,7 +62,7 @@
     flex-direction: column;
 }
 
-.people-grid .box {
+.grid .box {
     width: calc(25% - 10px);
     margin-left: 5px;
     margin-right: 5px;

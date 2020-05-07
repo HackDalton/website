@@ -47,7 +47,7 @@
                 </div>
             </div>
     </section>
-    <section>
+    <section class="section">
         <div class="container">
             <div class="columns">
                 <div class="column is-feature-column">
@@ -96,9 +96,22 @@
                 </div>
                 <div class="column has-text-centered">
                     <a href="/guest-problem-writers.html" class="button is-info is-fullwidth">Learn about our Guest
-                        Problem
-                        writers</a>
+                        Problem writers</a>
                 </div>
+            </div>
+        </div>
+    </section>
+    <section class="section">
+        <div class="container has-text-centered">
+            <h1 class="title">Proudly sponsored by</h1>
+            <div class="grid has-items-centered">
+                {% for sponsor in site.sponsors %}
+                <div class="box has-text-centered">
+                    <a href="{{sponsor.url}}">
+                        <img src="{{sponsor.logo}}">
+                    </a>
+                </div>
+                {% endfor %}
             </div>
         </div>
     </section>

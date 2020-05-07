@@ -4,7 +4,7 @@ subtitle: Learn more about the guests who write problems for HackDalton!
 layout: page
 ---
 
-<div class="people-grid">
+<div class="grid">
     {% for writer in site.guest-problem-writers %}
     <div class="box">
         <p class="title">{{writer.name}}</p>

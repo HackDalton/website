@@ -13,9 +13,9 @@ layout: page
 Installing the Windows Subsystem for Linux (WSL) is easy to do, and gives you access to a Linux terminal on a windows machine.
 
 ## Step 1: Enable WSL through PowerShell
-Open PowerShell as an Administrator by right clicking on the Start button, then clicking "Windows PowerShell (Admin)."
+Open PowerShell as an Administrator clicking the Start button, then typing "Windows PowerShell," and clicking "Run as Administrator"
 
-![PowerShell (Admin)](/assets/img/powershell.jpg)
+![PowerShell (Admin)](/assets/img/powershell-launch.jpg)
 
 Type the following into powershell, then press enter.
 ```powershell

@@ -67,20 +67,18 @@
     background-blend-mode: multiply !important;
 }
 
-.button.is-outlined.is-get-hacking-button {
-    background-color: rgba(0, 0, 0, 0);
-    color: white;
-    border: 1px white solid;
-}
-
-.button.is-outlined.is-get-hacking-button:hover {
-    background-color: white;
-    color: black;
-}
-
 @media(min-width: 768px) {
     .tiles {
         margin-top: -70px
+    }
+    .button.is-outlined.is-get-hacking-button {
+        background-color: rgba(0, 0, 0, 0);
+        color: white;
+        border: 1px white solid;
+    }
+    .button.is-outlined.is-get-hacking-button:hover {
+        background-color: white;
+        color: black;
     }
 }
 

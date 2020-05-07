@@ -10,7 +10,7 @@ layout: page
   <strong>Not using a Windows computer?</strong> Computers running macOS or Linux are already set up to compete! You don't have to worry about these instructions.
 </div>
 
-Installing the Windows Subsystem for Linux (WSL) is easy to do, and gives you access to a Linux terminal on a windows machine.
+Installing the Windows Subsystem for Linux (WSL) is easy to do, and gives you access to a Linux terminal on a Windows machine.
 
 ## Step 1: Enable WSL through PowerShell
 Open PowerShell as an Administrator clicking the Start button, then typing "Windows PowerShell," and clicking "Run as Administrator"
@@ -26,7 +26,7 @@ When prompted, restart your computer.
 
 ## Step 2: Install Ubuntu
 <div class="notification is-info">
-  <strong>Prefer a different distro?</strong> You're more than welcome to use that; however, the problems were written with Ubuntu in mind, so we reccomend using Ubuntu.
+  <strong>Prefer a different distro?</strong> You're more than welcome to use that; however, the problems were written with Ubuntu in mind, so we recommend using Ubuntu.
 </div>
 
 Install [Ubuntu](https://www.microsoft.com/en-us/p/ubuntu-2004-lts/9n6svws3rx71?activetab=pivot:overviewtab) from the Windows Store.

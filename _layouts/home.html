@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+    {% include nav.html %}
+    <section class="hero is-info is-large is-bold has-code-background">
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h1 class="title is-size-1">
+                    {{site.title}}
+                </h1>
+                <h2 class="subtitle is-size-4">
+                    A programming and computer science competition for the interschool.
+                </h2>
+            </div>
+        </div>
+    </section>
+    <section class="tiles">
+        <div class="container">
+            <div class="tile is-ancestor">
+                <div class="tile is-parent">
+                    <article class="tile is-child box has-text-centered">
+                        <p class="title">Who?</p>
+                        <p class="subtitle">Any student at any of the <a href="https://www.interschool.org/">New York
+                                Interschool</a> member schools can participate.</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box has-text-centered">
+                        <p class="title">What?</p>
+                        <p class="subtitle">A day-long CTF-style programming competition.</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box has-text-centered">
+                        <p class="title">When?</p>
+                        <p class="subtitle">Saturday, June 6th, from 10am to 5pm.</p>
+                    </article>
+                </div>
+                <div class="tile is-parent">
+                    <article class="tile is-child box has-text-centered">
+                        <p class="title">Where?</p>
+                        <p class="subtitle">Online, at hackdalton.com.</p>
+                    </article>
+                </div>
+            </div>
+    </section>
+    <section>
+        <div class="container">
+            <div class="columns">
+                <div class="column is-feature-column">
+                    <div class="icon-emphasis"><i class="fas fa-users"></i></div>
+                    <h1 class="title has-text-centered">Compete in teams</h1>
+                    <p class="has-text-centered feature-bullet-point">
+                        Have some friends who you would want to compete with? Feel free to team with them, even across
+                        schools!
+                    </p>
+
+                    <p class="has-text-centered feature-bullet-point">
+                        Want a team but don't have friends who want to compete? We can match you with teammates based on
+                        how seriously you want to take the competition!
+                    </p>
+                </div>
+                <div class="column is-feature-column">
+                    <div class="icon-emphasis"><i class="fas fa-brain"></i></div>
+                    <h1 class="title has-text-centered">Minimal experience needed</h1>
+                    <p class="has-text-centered feature-bullet-point">
+                        All of the problems have hints available and are designed to be solved by even the most
+                        inexperienced participants when hints are used.
+                    </p>
+
+                    <p class="has-text-centered feature-bullet-point">
+                        Still stuck even with the hints? Live help is available through the competition platform.
+                    </p>
+                </div>
+                <div class="column is-feature-column">
+                    <div class="icon-emphasis"><i class="fas fa-user-tie"></i></div>
+                    <h1 class="title has-text-centered">Guest problem writers</h1>
+                    <p class="has-text-centered feature-bullet-point">
+                        Some problems have been written by alumni and faculty, as well as other guests!
+                    </p>
+
+                    <p class="has-text-centered feature-bullet-point">
+                        Learn more about our guest problem writers <a href="/guest-problem-writers.html">here</a>.
+                    </p>
+                </div>
+            </div>
+            <div class="columns">
+                <div class="column has-text-centered">
+                    <a href="/find-a-team.html" class="button is-info">Find a team</a>
+                </div>
+                <div class="column has-text-centered">
+                    <a href="/help.html" class="button is-info">Get help</a>
+                </div>
+                <div class="column has-text-centered">
+                    <a href="/guest-problem-writers.html" class="button is-info">Learn about our Guest Problem
+                        writers</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    {% include footer.html %}
+</body>
+
+</html>

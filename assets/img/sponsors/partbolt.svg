@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="43.375748mm"
+   height="12.833976mm"
+   viewBox="0 0 43.375748 12.833976"
+   version="1.1"
+   id="svg4659"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_trim.svg"
+   inkscape:export-filename="/home/alex/Documents/partbolt/logo/logo.png"
+   inkscape:export-xdpi="118.74734"
+   inkscape:export-ydpi="118.74734">
+  <defs
+     id="defs4653" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="47.099119"
+     inkscape:cy="0.18763918"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1199"
+     inkscape:window-height="744"
+     inkscape:window-x="298"
+     inkscape:window-y="607"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata4656">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-5.6162289,-6.2460343)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 12.728228,11.986144 -4.7612485,6.600821 c -0.081157,0.108211 -0.202894,0.162316 -0.3381567,0.162316 -0.054105,0 -0.1217365,-0.01353 -0.1758416,-0.04058 C 7.2771397,18.627544 7.1824557,18.42465 7.2365609,18.235282 L 8.3862944,13.988033 H 6.3438268 c -0.148789,0 -0.2840518,-0.08116 -0.3516832,-0.216421 C 5.924512,13.636349 5.924512,13.48756 6.0056702,13.352297 L 10.225868,6.7650021 c 0.10821,-0.1623153 0.311104,-0.2299467 0.486946,-0.1623153 0.175841,0.067632 0.284051,0.2569992 0.256998,0.446367 l -0.662787,4.3013552 h 2.096572 c 0.148789,0 0.297578,0.08116 0.36521,0.21642 0.06763,0.135263 0.04058,0.297578 -0.04058,0.419315 z"
+       id="path3765"
+       style="fill:#ffdd57;fill-opacity:1;stroke:#000000;stroke-width:0.66145831;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="16.351788"
+       y="15.613655"
+       id="text4669"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         x="16.351788"
+         y="15.613655"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:'Nunito Sans';-inkscape-font-specification:'Nunito Sans Bold';stroke-width:0.26458332"
+         id="tspan823">PartBolt</tspan></text>
+  </g>
+</svg>

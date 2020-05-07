@@ -47,6 +47,9 @@ footer-links:
   - url: /help.html
     title: "Get Help"
 
+sponsors:
+  - url: https://partbolt.com
+    logo: /assets/img/sponsors/partbolt.svg
 
 # Build settings
 plugins:

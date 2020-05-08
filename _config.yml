@@ -36,6 +36,9 @@ social-links:
   - icon: fab fa-instagram
     url: https://instagram.com/hackdalton
     title: "@hackdalton"
+  - icon: far fa-envelope
+    url: mailto:hi@hackdalton.com
+    title: "hi@hackdalton.com"
 
 footer-links:
   - url: /about.html

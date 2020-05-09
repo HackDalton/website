@@ -13,5 +13,5 @@ layout: page
 4. **Easier problems unlock more difficult problems.** Some problems are hidden until you complete prior problems.
 5. **Hints cost points.** If you need a hint, you can use one of the pre-written hints for a fixed amount of points, displayed prior to opening the hint.
 6. **In person help is free.** Questions asked on help.hackdalton.com do not cost any points; though, there may be a delay before they can be answered. Do not publically post answers or hints on help.hackdalton.com. If you're not sure whether or not a post should be public, make it private.
-7. **Only students can participate.** Only Interschool students can participate. If you're a teacher and would like to participate, email us at [hi@hackdalton.com](hi@hackdalton.com), and we can set up an account for you.
+7. **Only students can participate.** Only high school students can participate. If you're a teacher and would like to participate, email us at [hi@hackdalton.com](hi@hackdalton.com), and we can set up an account for you.
 7. We reserve the right to ban any team or person from the competition for any reason.

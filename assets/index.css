@@ -100,7 +100,7 @@ body {
 }
 
 @media(max-width: 768px) {
-    .people-grid .box {
+    .grid .box {
         width: 100%;
     }
 }

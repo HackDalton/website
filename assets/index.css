@@ -80,6 +80,10 @@ body {
     background-blend-mode: multiply !important;
 }
 
+.is-sponsor-logo {
+    height: 3em;
+}
+
 @media(min-width: 768px) {
     .tiles {
         margin-top: -70px

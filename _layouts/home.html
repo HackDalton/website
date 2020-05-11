@@ -104,15 +104,7 @@
     <section class="section">
         <div class="container has-text-centered">
             <h1 class="title">Proudly sponsored by</h1>
-            <div class="grid has-items-centered">
-                {% for sponsor in site.sponsors %}
-                <div class="box has-text-centered">
-                    <a href="{{sponsor.url}}" target="_blank">
-                        <img src="{{sponsor.logo}}">
-                    </a>
-                </div>
-                {% endfor %}
-            </div>
+            {% include sponsors.html centered=true %}
         </div>
     </section>
     {% include footer.html %}

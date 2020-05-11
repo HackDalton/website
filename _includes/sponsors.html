@@ -1,0 +1,9 @@
+<div class="grid {% if include.centered %} has-items-centered {% endif %}">
+    {% for sponsor in site.sponsors %}
+    <div class="box has-text-centered">
+        <a href="{{sponsor.url}}" target="_blank">
+            <img src="{{sponsor.logo}}" class="is-sponsor-logo">
+        </a>
+    </div>
+    {% endfor %}
+</div>

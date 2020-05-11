@@ -55,6 +55,8 @@ footer-links:
 sponsors:
   - url: https://partbolt.com
     logo: /assets/img/sponsors/partbolt.svg
+  - url: https://linode.com
+    logo: /assets/img/sponsors/linode.svg
 
 # Build settings
 plugins:

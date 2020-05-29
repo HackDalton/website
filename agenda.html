@@ -1,0 +1,87 @@
+---
+title: Agenda
+subtitle: HackDalton is scheduled for Saturday, June 6, 2020.
+layout: page
+js: ["/assets/moment.min.js", "/assets/moment-timezone.js", "/assets/agenda.js"]
+---
+<noscript>
+	<strong>Caution!</strong>
+	<p>This page doesn't work without JS.</p>
+</noscript>
+<nav class="level">
+	<div class="level-left">
+		<div class="level-item has-text-centered">
+			<div>
+				<p class="heading">Select your timezone</p>
+				<div class="field">
+					<div class="control has-icons-left">
+						<div class="select is-medium">
+							<select name="timezone" id="timezone-select"></select>
+						</div>
+						<div class="icon is-small is-left">
+							<i class="far fa-clock"></i>
+						</div>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<div class="level-right">
+		<div class="level-item has-text-centered">
+			<div>
+				<p class="heading">New York</p>
+				<p class="title" id="new-york-time">12:34:56 PM</p>
+			</div>
+		</div>
+		<div class="level-item has-text-centered">
+			<div>
+				<p class="heading">Your time</p>
+				<p class="title" id="your-time">12:34:56 PM</p>
+			</div>
+		</div>
+	</div>
+</nav>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>Time (local)</th>
+			<th>Time (New York)</th>
+			<th>Event</th>
+			<th>Location</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td><span class="tz-local" data-time="2020-06-06 10:00:00"></span></td>
+			<td><span class="time" data-time="2020-06-06 10:00:00"></span></td>
+			<td>Opening remarks</td>
+			<td><a href="https://live.hackdalton.com">live.hackdalton.com</a></td>
+		</tr>
+		<tr>
+			<td><span class="tz-local" data-time="2020-06-06 10:30:00"></span></td>
+			<td><span class="time" data-time="2020-06-06 10:30:00"></span></td>
+			<td>Competition begins</td>
+			<td><a href="https://game.hackdalton.com">game.hackdalton.com</a></td>
+		</tr>
+		<tr>
+			<td><span class="tz-local" data-time="2020-06-06 12:30:00"></span></td>
+			<td><span class="time" data-time="2020-06-06 12:30:00"></span></td>
+			<td>Lunchtime infrastructure chat</td>
+			<td><a href="https://game.hackdalton.com">live.hackdalton.com</a></td>
+		</tr>
+		<tr>
+			<td><span class="tz-local" data-time="2020-06-06 17:00:00"></span></td>
+			<td><span class="time" data-time="2020-06-06 17:00:00"></span></td>
+			<td>Competition ends</td>
+			<td><a href="https://game.hackdalton.com">game.hackdalton.com</a></td>
+		</tr>
+		<tr>
+			<td><span class="tz-local" data-time="2020-06-06 17:00:00"></span></td>
+			<td><span class="time" data-time="2020-06-06 17:00:00"></span></td>
+			<td>Awards/Closing remarks</td>
+			<td><a href="https://game.hackdalton.com">live.hackdalton.com</a></td>
+		</tr>
+	</tbody>
+</table>

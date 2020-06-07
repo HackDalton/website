@@ -58,6 +58,9 @@ sponsors:
   - url: https://linode.com
     logo: /assets/img/sponsors/linode.svg
 
+markdown: kramdown
+highlighter: rouge
+
 # Build settings
 plugins:
   - gemoji

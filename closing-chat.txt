@@ -1,0 +1,184 @@
+17:04:33	 From Jacob Koziej : the music is the loud
+17:04:38	 From Riley M : WERQ
+17:04:46	 From DANIEL KOGAN : It do be loud tho
+17:04:52	 From Jacob Koziej : the ears perhaps have the hurt
+17:05:02	 From Riley M : bam dum bam dum
+17:05:17	 From Leom Wilson : Woot Woot
+17:05:37	 From Marc Mukasey : best hack a thon eva
+17:06:18	 From Jacob Koziej : i want this song played at graduation
+17:06:18	 From Alex Studer : 10/10
+17:06:23	 From Alex Studer : Unbiased rating
+17:06:24	 From Alexander Mazansky : nah
+17:06:25	 From Alexander Mazansky : 11/10
+17:06:30	 From DANIEL KOGAN : 0_0
+17:06:35	 From Jacob Koziej : owo
+17:06:39	 From Karina Chung : lollll
+17:06:39	 From DANIEL KOGAN : UwU
+17:06:47	 From Riley M : uwu
+17:06:48	 From Jacob Koziej : AGAIN AGAIN
+17:06:51	 From DANIEL KOGAN : RIP the music
+17:06:55	 From Riley M : PLEASE START PLAYING AGAIN
+17:07:08	 From Riley M : we need to continue the rave
+17:07:08	 From William Barkoff : Sorry I’m having technical issues one second
+17:07:17	 From Alex Studer : woot woot
+17:07:17	 From William Barkoff : The music again as per popular request
+17:07:20	 From MacKenzie Doodler : YAY
+17:07:23	 From Jacob Koziej : YESSSS POGCHAMP
+17:07:30	 From Alex : 🥳
+17:07:32	 From DANIEL KOGAN : YAY
+17:07:52	 From Riley M : YES
+17:08:56	 From Marc Mukasey : had a great time!
+17:09:02	 From MacKenzie Doodler : Go HackDalton!!
+17:10:32	 From MacKenzie Doodler : Ya CodingGs
+17:10:48	 From DANIEL KOGAN : TECHHACKS
+17:11:00	 From Leom Wilson : Oof I really thought id be higher
+17:11:36	 From Riley M : Thanks! :)
+17:11:37	 From Marc Mukasey : congratulations to you william and thx for doing this. cant wait for the next one
+17:11:39	 From Jacob Koziej : he is the pog champ
+17:11:46	 From Bbarkoff : Ya MAX
+17:11:47	 From Riley M : jacob cant do the pog
+17:11:53	 From DANIEL KOGAN : Rip jacob
+17:12:08	 From Bbarkoff : What about I DO COMPUTERS GOOD
+17:12:38	 From Jacob Koziej : i was so close :(
+17:13:15	 From Riley M : yeah
+17:13:30	 From Riley M : Thank you!
+17:13:34	 From Jacob Koziej : i loved the problems!
+17:13:35	 From shaedil : Thanks!
+17:13:36	 From Lsmithson : Thank you
+17:13:36	 From Marc Mukasey : thank u!!
+17:13:37	 From Alex : Thank you for hosting
+17:13:37	 From Frances Cohen : thank you!
+17:13:38	 From shaedil : Same
+17:13:39	 From Alex : Very epic :)
+17:13:40	 From Lsmithson : Loved this
+17:13:40	 From Cleo De Rocco : thanks!
+17:13:41	 From Karina Chung : Thank you!
+17:13:47	 From Jacob Koziej : you are the pogchamp
+17:13:48	 From Joel Mitchel : loved this
+17:13:54	 From Riley M : major pogchamp in the house
+17:13:58	 From Bbarkoff : YAY WILLIAM
+17:14:03	 From Alex Studer : Everyone share your favorite problem and why it was one of the ones I wrote
+17:14:09	 From Alex Studer : :P
+17:14:12	 From Jacob Koziej : coolCPU2
+17:14:13	 From Riley M : DSL 800
+17:14:16	 From DANIEL KOGAN : YES
+17:14:19	 From Riley M : YES
+17:14:30	 From Jacob Koziej : bc i'm learning how to write gameboy games in assembly :P
+17:14:39	 From Riley M : DSL 800 for sure Alex, because it was fun and the solution was SO SIMPOLE
+17:14:45	 From Riley M : I'm just mad I didn't get it sooner :P
+17:14:59	 From Jacob Koziej : i wish i didn't waste time on secret agent
+17:15:17	 From William Barkoff : Yeah I’m kind of mad at myself about secret agent - I should have made it easier
+17:15:19	 From Jacob Koziej : bc istg i could have done cpu2
+17:15:31	 From Alex Studer : Haha yeah the link server one had a lot of steps
+17:15:39	 From Alex Studer : You did get it in the end though which was super impressive!
+17:15:49	 From Jacob Koziej : how was secret agent meant to be solved in the end?
+17:15:55	 From William Barkoff : I’ll explain nit
+17:15:55	 From shaedil : ^
+17:15:58	 From William Barkoff : *it rn
+17:16:04	 From Riley M : 
+It was finding and exploiting the actual bug that was annoying >:(
+17:16:21	 From Riley M : Well not exploiting
+17:16:23	 From Riley M : Just finding it
+17:16:24	 From Alex Studer : and Jacob that's super cool! The coolcpu is actually meant to be similar to old-ish 8-bit processors like the one on the gameboy
+17:16:41	 From Riley M : Yeah, I thought so after seeing that you wrote a GB aasembler
+17:16:45	 From Riley M : *assembler
+17:16:49	 From Riley M : rgbds bad amirite
+17:17:00	 From Jacob Koziej : Alex I saw you write z80 and I was so excited
+17:17:08	 From Alex Studer : Hahahaha
+17:17:18	 From Jacob Koziej : because the A register works really simmilar to the A register on the gbz80
+17:17:29	 From Riley M : z80 < COOL CPI
+17:17:31	 From Riley M : *CPU
+17:17:31	 From Alex Studer : Yep exactly
+17:17:34	 From Alex Studer : Yes 100%
+17:17:37	 From Jacob Koziej : LMAO
+17:18:00	 From Riley M : I solved Cool CPU 1 by doing it by jand.
+17:18:06	 From Riley M : I considered making an assembler
+17:18:09	 From Riley M : Here's my code:
+17:18:18	 From Alex : wrote a script in python to just get the values to read all the bytes from memory
+17:18:24	 From Jacob Koziej : i was gonna do coolCPU2 in assembler and then just run a vim macro to convert it into hex
+17:18:30	 From Riley M : 22 93
+05
+12 F1
+20
+32 02
+FF
+17:18:34	 From Riley M : It ends iup reading more
+17:18:37	 From Riley M : But it still works
+17:18:38	 From Riley M : :P
+17:19:06	 From Alex : lol get em with that slack
+17:19:11	 From Riley M : slack pog?
+17:19:14	 From Riley M : slack pog
+17:19:28	 From Alex Studer : Yeah it turns out writing null bytes doesn't hurt anything so you can just print out whatever lol
+17:19:33	 From Riley M : lol yeah
+17:19:34	 From Jacob Koziej : irc >> slack
+17:19:39	 From shaedil : lol
+17:19:51	 From Alex Studer : And for coolcpu2 it's annoying without an assembler
+17:19:59	 From Jacob Koziej : that is true
+17:19:59	 From Riley M : I'll probably publish my DSL client if anyone wants to take a look
+17:20:09	 From Riley M : sure :)
+17:20:17	 From Jacob Koziej : Riley sent me some of his hex and i had to convert it to hex lol
+17:20:17	 From Alex Studer : Yes please do!
+17:20:25	 From William Barkoff : CON 0x93 ; stores 0x93 in register A
+	DEC
+	SWB
+loop:
+	SWB ; puts current position back in register A
+	INC
+	LDB ; loads value at current position into register B 
+	STB 0xf1 ; outputs value at register B
+	SWB ; swaps a and b
+	JNZ loop	; stop CPU
+	HCF
+17:20:36	 From Jacob Koziej : nice
+17:21:01	 From Alex Studer : 	CON 0x93				; 22 93
+loop: 			; this will be at position 0x02
+	LDB [A]					; 05
+	SWB						; 40
+	JZ end					; 31 0C
+	SWB						; 40
+	STB 0xF1				; 12 F1
+	INC						; 20
+	JP loop					; 30 02
+end:			; this will be at position 0x0C
+	HCF						; FF
+17:21:04	 From Bbarkoff : tHANK YOU
+17:21:08	 From Alex Studer : can save an instruction :P
+17:21:12	 From DatBoyOverThere : THANK YOU
+17:21:14	 From Alex Studer : Bye everyone!
+17:21:15	 From Jacob Koziej : ctrl c
+17:21:18	 From Jacob Koziej : quick!
+17:21:20	 From Wilson F : tHANKS WILL
+17:21:21	 From DANIEL KOGAN : Bye!
+17:21:24	 From Alex : HackDalton has officially halted and caught fire
+17:21:24	 From William Barkoff : I can email if you want
+17:21:25	 From Alex Studer : @riley you better send us that client lol I wanna see how you did it 
+17:21:29	 From Riley M : lol for suire
+17:21:34	 From Riley M : PM you on the help forum?
+17:21:34	 From Leom Wilson : HackDalton was the best
+17:21:39	 From Alex Studer : Sure
+17:21:47	 From William Barkoff : @Riley send me that client william@hackdalton.com and I can forward it to everyone
+17:21:49	 From MacKenzie Doodler : R u going to do this next year
+17:22:01	 From William Barkoff : I am a senior so I will be gone but I think some other people are planning to
+17:22:14	 From MacKenzie Doodler : oh that stinks
+17:22:23	 From Riley M : *flexes that i still have 4 years of high school*
+17:22:31	 From William Barkoff : Maybe I can run HackCornell next year
+17:22:32	 From Jacob Koziej : 8th grader owo
+17:22:42	 From shaedil : lmao
+17:22:59	 From DANIEL KOGAN : Congrats!
+17:23:10	 From shaedil : did anybody ask what that form was for on the website?
+17:23:18	 From William Barkoff : Oh yeah I forgot
+17:23:24	 From William Barkoff : Linode will send you some swag
+17:23:30	 From Riley M : swag pog
+17:23:37	 From William Barkoff : I will email everyone who fills out the form more info
+17:23:40	 From William Barkoff : Also a discount code
+17:23:46	 From William Barkoff : HACK20 for $20 off of linode
+17:23:54	 From William Barkoff : I’ll email everyone who filled out the form
+17:24:13	 From Riley M : Can i fill it out now?
+17:24:23	 From William Barkoff : Sure
+17:25:18	 From William Barkoff : I’ll leave it open through the end of the weekenx
+17:25:21	 From William Barkoff : *weekend
+17:25:33	 From William Barkoff : https://forms.gle/ErDJJLg973VFQj7f8
+17:26:18	 From William Barkoff : Ok I’m going to end the zoom call now, but if you email me your dsl client I’ll send it to everyone
+17:26:31	 From William Barkoff : Thank you for participating everyone!
+17:26:39	 From Alex Studer : Bye everyone!
+17:26:46	 From Alex : Cya :)

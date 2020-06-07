@@ -5,6 +5,58 @@ layout: page
 toc: true
 ---
 
+# Solutions submitted by participants
+
+These solutions were submitted in the [chat](/closing-chat.txt) during the closing remarks.
+
+### CoolCPU 1
+
+Alex Studer's assemby solution
+```nasm
+CON 0x93                ; 22 93
+loop:                   ; this will be at position 0x02
+	LDB [A]             ; 05
+	SWB                 ; 40
+	JZ end              ; 31 0C
+	SWB                 ; 40
+	STB 0xF1            ; 12 F1
+	INC                 ; 20
+	JP loop             ; 30 02
+end:                    ; this will be at position 0x0C
+	HCF                 ; FF
+```
+
+William Barkoff's assembly solution
+```nasm
+CON 0x93             ; stores 0x93 in register A
+DEC
+SWB
+loop:
+	SWB              ; puts current position back in register A
+	INC
+	LDB [A]          ; loads value at current position into register B 
+	STB 0xf1         ; outputs value at register B
+	SWB              ; swaps a and b
+	JNZ loop         ; stop CPU
+	HCF
+```
+
+rmorycz's (TechHacks Team) assembly solution
+```nasm
+	CON 0x93 ; 22 93
+loop:
+	LDB [A]  ; 05
+	STB 0xF1 ; 12 F1
+	INC      ; 20
+	JNZ loop ; 32 02
+	HCF      ; FF
+```
+
+### DynamicSystems Link
+rmorycz emailed us his DynamicSystems Link client [github.com/ThatNerdyPikachu/dsl800](https://github.com/ThatNerdyPikachu/dsl800)
+
+# HackDalton official writeups
+
 ## General Knowledge
 
 ### Lunchtime Infrastructure Chat (10pts)

@@ -9,7 +9,7 @@ First, some statistics about HackDalton.
 
 **44 users** registered for HackDalton among **23 teams**.
 
-**4410 points** were available, with **Let me in 1** being the most solved problem with 15 solves, and **Secret agent** and **DynamicSystems Link** were the least solved problems with 1 solve each. **CoolCPU 2** was the only unsolved problem. All together, HackDalton participants scored 
+**4410 points** were available, with **Let me in 1** being the most solved problem with 15 solves, and **Secret agent** and **DynamicSystems Link** were the least solved problems with 1 solve each. **CoolCPU 2** was the only unsolved problem. All together, HackDalton participants scored **16,990 points**! Congratulations to everyone who participated.
 
 
 Click a chart to enlarge it.

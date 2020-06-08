@@ -11,9 +11,9 @@ These solutions were submitted in the [chat](/closing-chat.txt) during the closi
 
 ### CoolCPU 1
 
-Alex Studer's assemby solution
+[Alex Studer](https://alex.studer.dev)'s (Guest Problem Writer) assemby solution
 ```nasm
-CON 0x93                ; 22 93
+	CON 0x93            ; 22 93
 loop:                   ; this will be at position 0x02
 	LDB [A]             ; 05
 	SWB                 ; 40
@@ -26,11 +26,11 @@ end:                    ; this will be at position 0x0C
 	HCF                 ; FF
 ```
 
-William Barkoff's assembly solution
+[William Barkoff](https://willbarkoff.dev)'s (Organizer) assembly solution
 ```nasm
-CON 0x93             ; stores 0x93 in register A
-DEC
-SWB
+	CON 0x93         ; stores 0x93 in register A
+	DEC
+	SWB
 loop:
 	SWB              ; puts current position back in register A
 	INC
@@ -41,7 +41,7 @@ loop:
 	HCF
 ```
 
-rmorycz's (TechHacks Team) assembly solution
+[rmorycz](https://github.com/ThatNerdyPikachu)'s (TechHacks Team) assembly solution
 ```nasm
 	CON 0x93 ; 22 93
 loop:

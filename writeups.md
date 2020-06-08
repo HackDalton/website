@@ -9,6 +9,8 @@ toc: true
 
 These solutions were submitted in the [chat](/closing-chat.txt) during the closing remarks.
 
+Have a solution you want to submit? Email it to [hi@hackdalton.com](mailto:hi@hackdalton.com), and we'll put it up here.
+
 ### CoolCPU 1
 
 [Alex Studer](https://alex.studer.dev)'s (Guest Problem Writer) assemby solution
